@@ -14,7 +14,7 @@ learn to use github
 1. try
 2. again
 
-[Google when unsure](https://www.google.com)
+Turn to [Google when unsure](https://www.google.com)
 
 ![An image of a cat](http://placekitten.com/200/300)
 
