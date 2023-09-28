@@ -1,9 +1,6 @@
 # tyou5351_9103_tut1
-## try using Markdown
 
-**learn to use github**
-
-#Part 1. Parallax
+# Part 1. Parallax
 
 **Parallax** refers to the apparent shift of an object caused by the observer’s changing perspective. Even though there’s only subtle differences between each frame, its 3D motion effect is still vividly exhibited.
 When working on the major project, I think different parts of the chosen artwork could be extracted into separate layers and be animated at varying speeds to create a more dynamic and three-dimensional visual effect. Besides, this technique helps lay the foundation for individual tasks as different layers have been set, making the animation easier to implement.
