@@ -13,7 +13,7 @@ When working on the major project, I think different parts of the chosen artwork
 
 
 
-#Part 2
+# Part 2
 
 ![image for part 2](readmeImages/github_500.png)
 
